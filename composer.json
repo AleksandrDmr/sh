@@ -1,0 +1,13 @@
+{
+    "require": {
+        "fxp/composer-asset-plugin": "^1.4",
+        "yiisoft/yii2": "^2.0"
+    },
+    "config": {
+        "fxp-asset": {
+            "installer-paths": {
+                "bower-assets-library": "vendor/bower"
+            }
+        }
+    }
+}
